@@ -23,7 +23,7 @@
 
 - Um estudante aaixonado e dedicado!
 - Jogo MMOs no meu tempo livre.
-- Atualmente Cursando WebFullStack na <a href="https://www.growdev.com.br" target="_blank" Growdev>
+- Atualmente Cursando WebFullStack na [my resume]([(https://www.growdev.com.br)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
