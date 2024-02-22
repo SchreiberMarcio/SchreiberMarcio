@@ -18,12 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Copy-paste in your Readme.md file -->
-<hr>
 
-[![card](https://github-readme-stats.vercel.app/api?username=Marcio120&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-<hr>
 
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
@@ -39,8 +34,13 @@ Here are some ideas to get you started:
 </p>
 
 
-<br>
 
+<hr>
+
+[![card](https://github-readme-stats.vercel.app/api?username=Marcio120&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<hr>
 
 
 	
