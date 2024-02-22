@@ -1,4 +1,4 @@
-### Hi there my name is Márcio André Schreiber👋
+### Hi there! my name is Marcio André Schreiber👋
 
 <!--
 **Marcio120/Marcio120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
