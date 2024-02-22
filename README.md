@@ -75,7 +75,7 @@
 <br>
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Conecte-se comigo:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/marcio-schreiber-bb3532278/"><img src="https://img.shields.io/badge/-Marcio%20Schreiber%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
