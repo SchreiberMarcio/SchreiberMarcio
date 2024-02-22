@@ -24,3 +24,13 @@ Here are some ideas to get you started:
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-org-stars-top-repos?owner_id=11855343&period=past_28_days" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-stars-top-repos/thumbnail.png?owner_id=11855343&period=past_28_days&image_size=4x5&color_scheme=dark" width="465" height="auto">
+    <img alt="Top repos by stars of pingcap" src="https://next.ossinsight.io/widgets/official/compose-org-stars-top-repos/thumbnail.png?owner_id=11855343&period=past_28_days&image_size=4x5&color_scheme=light" width="465" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
