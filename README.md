@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- Copy-paste in your Readme.md file -->
 <hr>
 
-[![Marcio120](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=Marcio120&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <hr>
