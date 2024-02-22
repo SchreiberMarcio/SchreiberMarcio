@@ -8,22 +8,15 @@
 </p>
 <hr>
 
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-<hr>
-
-
-	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim!**
-
 
 <br>
 
-- Um estudante aaixonado e dedicado!
+- Um estudante apaixonado e dedicado!
 - Jogo MMOs no meu tempo livre.
 - Atualmente Cursando WebFullStack na (https://www.growdev.com.br)
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -31,7 +24,6 @@
 <br>
 
 <p align="center">
-
 
 <br>   
     
@@ -63,14 +55,7 @@
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
-</p>
-
 <br>
-<br>
-
------
 
 <br>
 
@@ -79,8 +64,6 @@
 <br>
 
 
-
------
 
 [![card](https://github-readme-stats.vercel.app/api?username=Marcio120&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 <br>
@@ -97,10 +80,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/marcio-schreiber-bb3532278/"><img src="https://img.shields.io/badge/-Marcio%20Schreiber%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:contaasgard@gmail.com"><img src="https://img.shields.io/badge/-contaasgard10@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://www.instagram.com/schreibermarcio?igsh=ZGQyMWprdDEzbno2"><img src="https://img.shields.io/badge/-@Schreibermarcio__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 
