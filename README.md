@@ -82,7 +82,7 @@
 
 -----
 
-<br>
+[![card](https://github-readme-stats.vercel.app/api?username=Marcio120&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 
