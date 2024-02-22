@@ -22,8 +22,8 @@
 <br>
 
 - Um estudante aaixonado e dedicado!
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
+- Jogo MMOs no meu tempo livre.
+- Atualmente Cursando WebFullStack na <a href="[www.linkedin.com/in/marcio-schreiber-bb3532278](https://www.growdev.com.br/)" target="_blank" Growdev>
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
