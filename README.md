@@ -77,14 +77,6 @@
         alt="Github Stats"
       />
     </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=SchreiberMarcio&theme=tokyonight&hide_border=true"
-        alt="Github Stats"
-      />
-    </td>
   </tr>
 </table>
 
