@@ -14,7 +14,7 @@
 
 - Um estudante apaixonado e dedicado!
 - Jogo MMOs no meu tempo livre.
-- Atualmente Cursando WebFullStack na (https://www.growdev.com.br)
+- Atualmente Cursando WebFullStack na [Growdev](https://www.growdev.com.br)
 
 <br>
 
