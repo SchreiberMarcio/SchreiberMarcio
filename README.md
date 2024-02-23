@@ -85,6 +85,7 @@
       />
     </td>
   </tr>
+</table>
 
 ### 🤝🏻 &nbsp;Conecte-se comigo:
 
