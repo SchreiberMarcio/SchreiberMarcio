@@ -66,7 +66,7 @@
 
 <br>
 
-[![card](https://github-readme-stats.vercel.app/api?username=SchreiberMarcio&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=SchreiberMarcio&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
