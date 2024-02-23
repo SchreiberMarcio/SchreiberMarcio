@@ -91,7 +91,7 @@
 
 ### 🤝🏻 &nbsp;Conecte-se comigo:
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/marcio-schreiber-bb3532278/"><img src="https://img.shields.io/badge/-Marcio%20Schreiber%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:contaasgard@gmail.com"><img src="https://img.shields.io/badge/-contaasgard10@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/schreibermarcio?igsh=ZGQyMWprdDEzbno2"><img src="https://img.shields.io/badge/-@Schreibermarcio__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
